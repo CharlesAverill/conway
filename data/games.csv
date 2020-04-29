@@ -1,0 +1,11 @@
+start,end,start_living,num_living_end,steps
+./data/game_1/start.npy,./data/game_1/end.npy,250,77,10000
+./data/game_2/start.npy,./data/game_2/end.npy,249,47,10000
+./data/game_3/start.npy,./data/game_3/end.npy,214,44,10000
+./data/game_4/start.npy,./data/game_4/end.npy,248,73,10000
+./data/game_5/start.npy,./data/game_5/end.npy,216,58,10000
+./data/game_6/start.npy,./data/game_6/end.npy,234,31,10000
+./data/game_7/start.npy,./data/game_7/end.npy,251,41,10000
+./data/game_8/start.npy,./data/game_8/end.npy,231,37,10000
+./data/game_9/start.npy,./data/game_9/end.npy,257,68,10000
+./data/game_10/start.npy,./data/game_10/end.npy,263,60,10000
