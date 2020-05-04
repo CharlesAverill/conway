@@ -1,9 +1,8 @@
 # Conway
-Conway is a dataset <s>containing 100,000 instances</s> that
-will contain 100,000 instances of Conway's game of life. 
+Conway is a dataset containing 100,000 instances that of Conway's game of life. 
 
 ### Data 
-Inside of the `data` folder, there are folders for each game 
+Inside of the compressed `data` folder, there are folders for each game 
 instance. Each of these folders contains a `start.npy` and 
 `end.npy`, which contain NumPy arrays of the game's initial 
 and ending conditions. 
@@ -12,7 +11,7 @@ and ending conditions.
 infinite plain).
 - The games follow the traditional rules
 
-The `data` folder also contains a `games.csv`, which contains the
+The compressed `data` folder also contains a `games.csv`, which contains the
 following (each row represents 1 game):
 - Paths to `start.npy` and `end.npy`
 - Number of living cells at the start of the game. This should 
